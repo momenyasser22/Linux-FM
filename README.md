@@ -1,6 +1,6 @@
 Here is a draft GitHub README for your PyQt file manager project:
 
-# PyQt File Manager
+# PyQt Linux File Manager
 
 A simple file manager desktop application built with PyQt5.
 
