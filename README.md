@@ -16,7 +16,9 @@ A simple Linux file manager application built with PyQt5.
 
 - Python 3.6 or higher 
 - PyQt5
-
+```
+  pip install PyQt5
+```
 ## Usage
 
 To run the application:
