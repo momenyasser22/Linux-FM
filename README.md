@@ -22,7 +22,7 @@ A simple file manager desktop application built with PyQt5.
 To run the application:
 
 ```
-python file_manager.py
+python3 file_manager.py
 ```
 
 The app will open up a file browser window.
